@@ -169,8 +169,10 @@ After correcting the repository connection, the project was successfully uploade
 
 # Conclusion
 
-This project helped me understand the workflow of setting up an Ubuntu Server virtual machine, working with Linux commands, generating SSH keys, using Git for version control, and publishing a project on GitHub.
+# Conclusion
 
-Throughout the process, I encountered and solved different errors, which improved my understanding of Linux, PowerShell, Git, and troubleshooting.
+In this project, I successfully created and configured an Ubuntu Server virtual machine using VirtualBox, performed essential Linux system administration tasks, generated and managed SSH keys, practiced Windows PowerShell commands, used Git for version control, and published the completed project to GitHub.
+
+This project demonstrates my ability to document technical work, troubleshoot issues, and use fundamental cloud and Linux tools that form the foundation of cloud engineering.
 
 ---
