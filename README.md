@@ -12,7 +12,6 @@ The aim of this project was to create an Ubuntu Server virtual machine, perform 
 
 I created a new Ubuntu Server virtual machine using VirtualBox. During the setup, I selected the Ubuntu Server ISO image, named the virtual machine CyberLab, and reviewed the VM configuration before creating it.
 
-## Evidence
 
 [VirtualBox Summary](https://github.com/ChiekeziKelechi/CyberLab-PowerShell-Journey/blob/master/23C366A2-40FD-4379-983D-55DC62BBCA25.jpeg?raw=true)
 
@@ -27,7 +26,6 @@ Configuration details:
 - Hostname: CyberLab
 - Username: LabAdmin
 
-## Evidence
 
 [Virtual Machine Name and Operating System](https://github.com/ChiekeziKelechi/CyberLab-PowerShell-Journey/blob/master/IMG_0403.jpeg?raw=true)
 
@@ -41,7 +39,6 @@ After completing the installation, I started the Ubuntu Server virtual machine a
 
 The system successfully booted and generated SSH host key information.
 
-## Evidence
 
 [Ubuntu Boot Process](https://github.com/ChiekeziKelechi/CyberLab-PowerShell-Journey/blob/master/IMG_0408.jpeg?raw=true)
 
@@ -64,7 +61,6 @@ hostname -I
 
 These commands helped me identify my current directory, view files, verify my username, check the hostname, and display the server IP address.
 
-## Evidence
 
 [Linux File Commands](https://github.com/ChiekeziKelechi/CyberLab-PowerShell-Journey/blob/master/Screenshots/Screenshot%202026-07-27%20000243.png?raw=true)
 
@@ -84,7 +80,6 @@ pwd
 touch testrun.txt  
 ls  
 
-## Evidence
 
 [Creating Project Directory](https://github.com/ChiekeziKelechi/CyberLab-PowerShell-Journey/blob/master/Screenshots/Screenshot%202026-07-27%20003636.png?raw=true)
 
@@ -104,7 +99,6 @@ cat ~/.ssh/id_ed25519.pub
 
 During this process, I encountered a small command syntax error, corrected it, and continued successfully.
 
-## Evidence
 
 [SSH Key Generation](https://github.com/ChiekeziKelechi/CyberLab-PowerShell-Journey/blob/master/Screenshots/Screenshot%202026-07-27%20004006.png?raw=true)
 
@@ -121,7 +115,6 @@ ls
 mkdir  
 cd  
 
-## Evidence
 
 [PowerShell Project Directory](https://github.com/ChiekeziKelechi/CyberLab-PowerShell-Journey/blob/master/Screenshots/Screenshot%202026-07-27%20011540.png?raw=true)
 
@@ -141,7 +134,6 @@ git log
 
 I first received an "Author identity unknown" message. I then configured my Git username and email before successfully creating the commit.
 
-## Evidence
 
 [Git Configuration](https://github.com/ChiekeziKelechi/CyberLab-PowerShell-Journey/blob/master/Screenshots/Screenshot%202026-07-27%20020641.png?raw=true)
 
@@ -161,13 +153,10 @@ git push -u origin master
 
 After correcting the repository connection, the project was successfully uploaded to GitHub.
 
-## Evidence
 
 [GitHub Upload](https://github.com/ChiekeziKelechi/CyberLab-PowerShell-Journey/blob/master/Screenshots/Screenshot%202026-07-27%20023741.png?raw=true)
 
 ---
-
-# Conclusion
 
 # Conclusion
 
